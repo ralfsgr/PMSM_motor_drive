@@ -1,0 +1,4 @@
+implement desaturation monitoring, Vce monitor for over current sensing,
+if current increases too much, then Vce increases, for example,
+set comparator to monitor 5V limit of Vce, if exceeded,
+turn off the drivers;
